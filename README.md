@@ -41,7 +41,7 @@ Check the code above in this repository.
 
 ## 🛠️ Features
 
-- 💡 Tiny student model trained via knowledge distillation
-- ⚙️ Inference pipeline for full video processing
-- 🎞️ Batch-wise processing for faster testing
-- 📦 Multiple sub-models stacked: Defocus → Derain → Deblur
+- Tiny student model trained via knowledge distillation
+- Inference pipeline for full video processing
+- Batch-wise processing for faster testing
+- Multiple sub-models stacked: Defocus → Derain → Deblur
