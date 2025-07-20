@@ -30,7 +30,7 @@ To design a compact student model for **video sharpening and restoration**, lear
   - Deraining: | SSIM: 0.9078 | PSNR: 30.52 dB
 
 📆 **Duration:**  
-1 Month (Intense 🧪🔥)
+1 Month (Intense)
 
 ---
 
